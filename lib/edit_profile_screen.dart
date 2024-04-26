@@ -23,8 +23,7 @@ class _EditProfileScreenState extends State<EditProfileScreen> {
     try {
       await widget.user.updateDisplayName(_nameController.text);
       if (_image != null) {
-        // Upload image to Firebase Storage or any other storage solution
-        // Set profile picture URL in user profile
+
       }
       ScaffoldMessenger.of(context).showSnackBar(SnackBar(
         content: Text('Profile updated successfully'),

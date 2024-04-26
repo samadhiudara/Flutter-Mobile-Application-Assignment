@@ -58,7 +58,7 @@ class SignInScreen extends StatelessWidget {
             SizedBox(height: 10),
             TextButton(
               onPressed: () {
-                // Implement other sign-in methods
+
               },
               child: Text('Or sign in with other methods'),
             ),

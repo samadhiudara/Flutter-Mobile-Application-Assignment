@@ -50,7 +50,7 @@ class AuthenticationScreen extends StatelessWidget {
         SizedBox(height: 10),
         TextButton(
           onPressed: () {
-            // Implement sign up logic
+
           },
           child: Text('Create an Account'),
         ),
