@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "491317460412",
+    "project_id": "mobilefluttertask",
+    "storage_bucket": "mobilefluttertask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491317460412:android:f7d3ad8c0e99f600653fb9",
+        "android_client_info": {
+          "package_name": "com.example.mobile_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEFy263pU3wWo7u4lVmBs94cISuSEqTkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
